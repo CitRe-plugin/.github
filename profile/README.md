@@ -1,11 +1,5 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/CitRe-plugin/.github/main/profile/assets/citre-marquee-1400x560.png"
-     alt="CitRe — When life gives you articles, CitRe them."
-     width="100%">
-
-<br>
-
 ### The Zesty Citation Manager
 
 **Turn selected scholarly text into structured, verifiable citations — directly in your browser.**
@@ -16,6 +10,12 @@
 [![Privacy](https://img.shields.io/badge/Privacy-Local--first-111111?style=for-the-badge&logo=shield&logoColor=F9D900)](https://github.com/CitRe-plugin/.github/blob/main/PRIVACY.md)
 [![License](https://img.shields.io/badge/License-CC_BY--NC_4.0-111111?style=for-the-badge&logo=creativecommons&logoColor=F9D900)](https://github.com/CitRe-plugin/.github/blob/main/LICENSE.md)
 [![🍋 Support](https://img.shields.io/badge/%F0%9F%8D%8B%20Support-Keep%20CitRe%20Zesty-F9D900?style=for-the-badge)](https://buymeacoffee.com/citre)
+
+<br>
+
+<img src="https://raw.githubusercontent.com/CitRe-plugin/.github/main/profile/assets/citre-marquee-1400x560.png"
+     alt="CitRe — When life gives you articles, CitRe them."
+     width="100%">
 
 </div>
 
