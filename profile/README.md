@@ -7,7 +7,6 @@
 <br>
 
 ![Chrome Extension](https://img.shields.io/badge/Chrome_Extension-CitRe-F9D900?style=for-the-badge&logo=googlechrome&logoColor=111111)
-[![Privacy](https://img.shields.io/badge/Privacy-Local--first-111111?style=for-the-badge&logo=shield&logoColor=F9D900)](https://github.com/CitRe-plugin/.github/blob/main/PRIVACY.md)
 [![License](https://img.shields.io/badge/License-CC_BY--NC_4.0-111111?style=for-the-badge&logo=creativecommons&logoColor=F9D900)](https://github.com/CitRe-plugin/.github/blob/main/LICENSE.md)
 [![🍋 Support](https://img.shields.io/badge/%F0%9F%8D%8B%20Support-Keep%20CitRe%20Zesty-F9D900?style=for-the-badge)](https://buymeacoffee.com/citre)
 
